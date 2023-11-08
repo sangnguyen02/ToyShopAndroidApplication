@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "415889786546",
+    "firebase_url": "https://toyshop-fae1f-default-rtdb.firebaseio.com",
+    "project_id": "toyshop-fae1f",
+    "storage_bucket": "toyshop-fae1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415889786546:android:c6393f68fefe800ef9abab",
+        "android_client_info": {
+          "package_name": "com.example.toyshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415889786546-84b4vo03df36djv5fft4h6poaf04dlre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_I3KwqouwIdIRttYwN2g95H4OeQ4LAZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415889786546-84b4vo03df36djv5fft4h6poaf04dlre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415889786546:android:341f6b9c1a4c567bf9abab",
+        "android_client_info": {
+          "package_name": "com.example.toyshopproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415889786546-84b4vo03df36djv5fft4h6poaf04dlre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_I3KwqouwIdIRttYwN2g95H4OeQ4LAZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415889786546-84b4vo03df36djv5fft4h6poaf04dlre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
